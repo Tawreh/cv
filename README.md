@@ -1,5 +1,5 @@
 # Sophie Shanahan-Kluth
-## <http://herbal-jazz.net> - <ssk@herbal-jazz.net> - 07460 776 176
+<http://herbal-jazz.net> - <ssk@herbal-jazz.net> - 07460 776 176
 
 ### About me
 I’m Sophie, a 23-year-old, 6’2″ web developer based in Bristol. I moved here from Lincolnshire when I started university and fell head-over-heels for the place. :)
@@ -79,13 +79,13 @@ Oh ... and I really like writing documentation! I know that sounds weird, but I 
 
 ### References
 #### David Moreton
-> My boss at Circle Interactive
+> My boss at Circle Interactive  
 > <davem@circle-interactive.co.uk> · [website](http://circle-interactive.co.uk/) · 0117 909 6967
 
 #### Andrew Walker
-> Senior developer at Circle Interactive
+> Senior developer at Circle Interactive  
 > <andyw@circle-interactive.co.uk>
 
 #### Praminda Caleb-Solly
-> Senior lecturer at UWE
+> Senior lecturer at UWE  
 > <pcalebso@uwe.ac.uk> · [website](http://www.cems.uwe.ac.uk/~pcalebso/) · 0117 328 3178
