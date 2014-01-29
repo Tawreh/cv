@@ -41,7 +41,7 @@
 
     <section class="about-me">
       <h2>About me</h2>
-      <p>I’m Sophie, a 23-year-old, 6’2″, female web developer based in Bristol. I moved here from Lincolnshire when I started university and fell head-over-heels for the place. :)</p>
+      <p>I’m Sophie, a 23-year-old, 6’2″ web developer based in Bristol. I moved here from Lincolnshire when I started university and fell head-over-heels for the place. :)</p>
       <p>A recent graduate of Web Design from UWE in Bristol, I like wearing silly hats, drinking coffee, listening to music, baking, drawing, typography and fantasy writing. And cats. I really like cats.</p>
     </section>
 
@@ -66,7 +66,7 @@
       <dl>
         <dt>Circle Interactive - July 2011 to present</dt>
         <dd>
-          <p><a href="http://circle-interactive.co.uk/">Website</a> - <a href="/repo">link to personal repository of work</a></p>
+          <p><a href="http://circle-interactive.co.uk/">Website</a> - <a href="http://github.com/Tawreh">link to personal repository of work</a></p>
           <p>I started at Circle for my placement year between July 2011 and September 2012. During my final year of uni (Sept 2012 - May 2013), I worked at Circle while studying, during holidays and once every other week when my timetable allowed. I was hired straight out of university, starting full time as soon as my exams finished at the end of May 2013.</p>
           <p>My work included:</p>
           <ul>
