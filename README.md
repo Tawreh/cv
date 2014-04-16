@@ -11,10 +11,10 @@ I have experience with ...
 * HTML5 and CSS3, bringing PSD designs to life in the browser
 * PHP and MySQL, mainly through PMA, although some base knowledge with command line SQL
 * Drupal 6/7 with CiviCRM 3.5+, including writing custom modules for each
-* SVN and a little bit of git, limited by the fact I am a Windows user
+* SVN and a little bit of git
 * Web accessibility standards and making websites easy-to-use
 * JavaScript and jQuery, used mainly in conjunction with Drupal/Civi
-* Responsive web design, although limited as most of our projects haven’t called for its use
+* Basic responsive web design
 * WordPress 3.0+, mainly with writing custom themes for personal use
 * Writing project documentation for a range of audiences (clients, other developers)
 
@@ -52,7 +52,7 @@ I have experience with ...
 
 ### Study
 #### BSc(hons) in Web Design
-> Studied at the University of the West of England, Bristol from September 2009 to July 2013, graduating with honours.
+> Studied at the University of the West of England, Bristol from September 2009 to July 2013, graduating with a first class degree.
 >
 > Modules included:
 > * Final year: a digital media project ([Fontastica, a font finder](http://herbal-jazz.net/fontastica/beta/index.php)), interaction design ([logbook of work](http://id.herbal-jazz.net/)), consultancy project (working with Bristol Women’s Voice), advanced topics in web development (creating a RESTful API system)
@@ -65,7 +65,7 @@ I have experience with ...
 >
 > BTEC units included: photography, fashion illustration, textile work, art history, logo/brand design, web design (in final major project, self-created brief), typography.
 >
-> A-levels achieved in English Language, Chemistry and General Studies.
+> A-levels achieved in English Language (B), Chemistry (C) and General Studies.
 
 ### What I can bring to the table
 I’ve been working with the web since I was 14, and since then I’ve become a huge believer in making things simple and easy to use, both for the end user and for any developer who will take up work after me. I’m keen to broaden my horizons and learn new things, rather than stagnating in a single place.
@@ -79,13 +79,13 @@ Oh ... and I really like writing documentation! I know that sounds weird, but I 
 
 ### References
 #### David Moreton
-> My boss at Circle Interactive  
+> My boss at Circle Interactive
 > <davem@circle-interactive.co.uk> · [website](http://circle-interactive.co.uk/) · 0117 909 6967
 
 #### Andrew Walker
-> Senior developer at Circle Interactive  
+> Senior developer at Circle Interactive
 > <andyw@circle-interactive.co.uk>
 
 #### Praminda Caleb-Solly
-> Senior lecturer at UWE  
+> Senior lecturer at UWE
 > <pcalebso@uwe.ac.uk> · [website](http://www.cems.uwe.ac.uk/~pcalebso/) · 0117 328 3178

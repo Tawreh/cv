@@ -52,10 +52,10 @@
         <li> HTML5 and CSS3, bringing PSD designs to life in the browser</li>
         <li> PHP and MySQL, mainly through PMA, although some base knowledge with command line SQL</li>
         <li> Drupal 6/7 with CiviCRM 3.5+, including writing custom modules for each</li>
-        <li> SVN and a little bit of git, limited by the fact I am a Windows user</li>
+        <li> SVN and a little bit of git</li>
         <li> Web accessibility standards and making websites easy-to-use</li>
         <li> JavaScript and jQuery, used mainly in conjunction with Drupal/Civi</li>
-        <li> Responsive web design, although limited as most of our projects haven’t called for its use</li>
+        <li> Basic responsive web design</li>
         <li> WordPress 3.0+, mainly with writing custom themes for personal use</li>
         <li> Writing project documentation for a range of audiences (clients, other developers)</li>
       </ul>
@@ -102,10 +102,12 @@
       <dl>
         <dt>BSc(hons) in Web Design</dt>
         <dd>
-          <p>Studied at <abbr title="University of the West of England">UWE</abbr> Bristol from September 2009 to July 2013, graduating with honours.</p>
-          <p>Modules included:</p>
+          <p>Studied at <abbr title="University of the West of England">UWE</abbr> Bristol from September 2009 to July 2013, graduating with a first class degree.</p>
+          <p>My final year project was <a href="http://fontastica.herbal-jazz.net">Fontastica</a>, a font finder. Using Google's API, the site provided random combinations of fonts in header-body format and allowed users to rate them ("I like this!" or "This sucks!"). Its purpose was to give designers ideas for type combinations on websites, assuming that it's either difficult to come up with a good combination, or they stick to the same old thing.</p>
+          <p>It was built using CodeIgniter, which I hadn't used before, and was coded between October 2012 and April 2013. The <a href="/cv/dmp/report.pdf">accompanying report</a> (a large PDF ... you've been warned) was written throughout the year alongside the project work.</p>
+          <p>Other modules included:</p>
           <ul>
-            <li> Final year: a digital media project (<a href="http://herbal-jazz.net/fontastica/beta/index.php">Fontastica, a font finder</a>), interaction design (<a href="http://id.herbal-jazz.net/">logbook of work</a>), consultancy project (working with Bristol Women’s Voice), advanced topics in web development (creating a RESTful API system)</li>
+            <li> Final year: a digital media project (<a href="http://fontastica.herbal-jazz.net">Fontastica, a font finder</a>), interaction design (<a href="http://id.herbal-jazz.net/">logbook of work</a>), consultancy project (working with Bristol Women’s Voice), advanced topics in web development (creating a RESTful API system)</li>
             <li> Third year: placement at <a href="http://circle-interactive.co.uk/">Circle Interactive</a></li>
             <li> Second year: human-computer interaction, information architecture, web design principles</li>
             <li> First year: information design, media technologies (basic knowledge of Flash and ActionScript 3.0 programming)</li>
@@ -116,7 +118,7 @@
         <dd>
           <p>Attended <abbr title="Sleaford Joint Sixth Form">SJSF</abbr> in Lincolnshire from September 2007 to July 2009. Left with three A-levels and one BTEC Certificate in Art &amp; Design (grade MM).</p>
           <p>BTEC units included: photography, fashion illustration, textile work, art history, logo/brand design, web design (in final major project, self-created brief), typography.</p>
-          <p>A-levels achieved in English Language, Chemistry and General Studies.</p>
+          <p>A-levels achieved in English Language (B), Chemistry (C) and General Studies.</p>
         </dd>
       </dl>
     </section>

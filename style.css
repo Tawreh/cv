@@ -166,6 +166,7 @@
 
     #page {
       margin-left: 10%;
+      min-width: 450px;
       padding: 5% 2% 15%;
       width: 40%;
       word-wrap: break-word;
