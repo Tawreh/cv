@@ -2,21 +2,22 @@
 <http://herbal-jazz.net> - <ssk@herbal-jazz.net> - 07460 776 176
 
 ### About me
-I’m Sophie, a 23-year-old, 6’2″ web developer based in Bristol. I moved here from Lincolnshire when I started university and fell head-over-heels for the place. :)
+I’m Sophie, a 24-year-old, 6’2″ web developer based in Bristol. I moved here from Lincolnshire when I started university and fell head-over-heels for the place. :)
 
 A recent graduate of Web Design from UWE in Bristol, I like wearing silly hats, drinking coffee, listening to music, baking, drawing, typography and fantasy writing. And cats. I really like cats.
 
 ### General Overview
 I have experience with ...
 * HTML5 and CSS3, bringing PSD designs to life in the browser
-* PHP and MySQL, mainly through PMA, although some base knowledge with command line SQL
+* PHP and MySQL, mainly through the Drupal framework
 * Drupal 6/7 with CiviCRM 3.5+, including writing custom modules for each
-* SVN and a little bit of git
+* Version control (both SVN and Git)
 * Web accessibility standards and making websites easy-to-use
 * JavaScript and jQuery, used mainly in conjunction with Drupal/Civi
 * Basic responsive web design
 * WordPress 3.0+, mainly with writing custom themes for personal use
 * Writing project documentation for a range of audiences (clients, other developers)
+* The command line, mostly OSX, using Vim, MySQL and other command line tools
 
 ### Work
 #### Microserve - May 2013 to present
