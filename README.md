@@ -20,12 +20,12 @@ I have experience with ...
 * The command line, mostly OSX, using Vim, MySQL and other command line tools
 
 ### Work
-#### Microserve - May 2013 to present
+#### Microserve - May 2014 to present
 > [Website](http://microserveltd.co.uk/)
 >
 > Working as a mid-level Drupal developer. Not much more to say yet! I've only been here for a short amount of time! :)
 
-#### Circle Interactive - July 2011 to May 2013
+#### Circle Interactive - July 2011 to May 2014
 > [Website](http://circle-interactive.co.uk/) - [link to personal repository of work](https://github.com/Tawreh)
 >
 > I started at Circle for my placement year between July 2011 and September 2012. During my final year of uni (Sept 2012 - May 2013), I worked at Circle while studying, during holidays and once every other week when my timetable allowed. I was hired straight out of university, starting full time as soon as my exams finished at the end of May 2013.
