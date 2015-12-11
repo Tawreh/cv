@@ -33,7 +33,7 @@ I have experience with ...
 You can view [my personal repository of work](http://github.com/Tawreh) on Github.
 
 #### Microserve - May 2014 to present
-> [Website](http://microserve.io/)
+> [Website](http://microserve.io/)  
 > **Currently happily employed.** Please don't contact me enquiring about job opportunities as I am not currently seeking work elsewhere.
 
 > Working as a mid-level Drupal developer. In the last year I've worked on several large Drupal projects, including:
@@ -43,7 +43,7 @@ You can view [my personal repository of work](http://github.com/Tawreh) on Githu
 > *   [Simitive](http://simitive.com)
 
 #### Circle Interactive - July 2011 to May 2014
->[Website](http://circle-interactive.co.uk/)
+>[Website](http://circle-interactive.co.uk/)  
 >I started at Circle for my placement year between July 2011 and September 2012\. During my final year of uni (Sept 2012 - May 2013), I worked at Circle while studying, during holidays and once every other week when my timetable allowed. I was hired straight out of university, starting full time as soon as my exams finished at the end of May 2013.
 
 >My work included:
@@ -55,7 +55,7 @@ You can view [my personal repository of work](http://github.com/Tawreh) on Githu
 >*   Estimating work needed and time required for projects, and advising on what technologies could be used to solve problems
 
 #### Bristol Women’s Voice - September 2012 to May 2013
-> [Website](http://bristolwomensvoice.org.uk/) - [final report](/cv/bwv/report.pdf) - [associated documentation](/cv/bwv/docs.pdf)
+> [Website](http://bristolwomensvoice.org.uk/) - [final report](/cv/bwv/report.pdf) - [associated documentation](/cv/bwv/docs.pdf)  
 > As part of a final-year module I worked closely with Louise Williams at BWV to update some of the styling and layout on their website.
 
 > As a team, we also created some user documentation to allow other members of her organisation to update content on the site. This involved teaching my team mates how WordPress works so they could produce some basic documentation as well.
@@ -100,17 +100,17 @@ Oh ... and I really like writing documentation! I know that sounds weird, but I 
 <section class="references">
 ## References
 #### David Moreton
-> My boss at Circle Interactive
+> My boss at Circle Interactive  
 > [davem@circle-interactive.co.uk](mailto:davem@circle-interactive.co.uk) · [website](http://circle-interactive.co.uk/) · [0117 909 6967](tel:+441179096967)
 
 
 #### Andrew Walker
-> Senior developer at Circle Interactive
+> Senior developer at Circle Interactive  
 > [andyw@circle-interactive.co.uk](mailto:andyw@circle-interactive.co.uk)
 
 
 #### Praminda Caleb-Solly
-> Senior lecturer at UWE
+> Senior lecturer at UWE  
 > [pcalebso@uwe.ac.uk](mailto:pcalebso@uwe.ac.uk) · [website](http://www.cems.uwe.ac.uk/~pcalebso/) · [0117 328 3178](tel:+441173283178)
 </section>
 
