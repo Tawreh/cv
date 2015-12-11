@@ -34,15 +34,15 @@
       <h1>Sophie Shanahan-Kluth</h1>
       <h2>
         <span class="web"><a href="http://herbal-jazz.net">herbal-jazz.net</a></span>
-        <span class="email"><a href="mailto:ssk@herbal-jazz.net">ssk@herbal-jazz.net</a></span>
+        <span class="email"><a href="mailto:sophie@microserve.io">sophie@microserve.io</a></span>
         <span class="phone"><a href="tel:+447460776176">07460 776 176</a></span>
       </h2>
     </header>
 
     <section class="about-me">
       <h2>About me</h2>
-      <p>I’m Sophie, a 24-year-old, 6’2″ web developer based in Bristol. I moved here from Lincolnshire when I started university and fell head-over-heels for the place. :)</p>
-      <p>A recent graduate of Web Design from UWE in Bristol, I like wearing silly hats, drinking coffee, listening to music, baking, drawing, typography and fantasy writing. And cats. I really like cats.</p>
+      <p>I’m Sophie, a 25-year-old, 6’2″ web developer based in Bristol. I moved here from Lincolnshire when I started university and fell head-over-heels for the place. :)</p>
+      <p>A graduate of Web Design from UWE in Bristol, I like wearing silly hats, drinking coffee, listening to music, baking, drawing, typography and fantasy writing. And cats. I really like cats.</p>
     </section>
 
     <section class="overview">
@@ -52,28 +52,41 @@
         <li> HTML5 and CSS3, bringing PSD designs to life in the browser</li>
         <li> PHP and MySQL, mainly through the Drupal framework</li>
         <li> Drupal 6/7 with CiviCRM 3.5+, including writing custom modules for each</li>
-        <li> Version control (both SVN and Git)</li>
+        <li> Some limited experience of Drupal 8</li>
+        <li> Version control (mostly Git)</li>
         <li> Web accessibility standards and making websites easy-to-use</li>
-        <li> JavaScript and jQuery, used mainly in conjunction with Drupal/Civi</li>
+        <li> JavaScript and jQuery, used mainly within the Drupal framework</li>
         <li> Basic responsive web design</li>
-        <li> WordPress 3.0+, mainly with writing custom themes for personal use</li>
+        <li> WordPress 3.0+, mainly with writing custom themes for personal use, and site building</li>
         <li> Writing project documentation for a range of audiences (clients, other developers)</li>
-        <li> The command line, mostly OSX, using Vim, MySQL and other command line tools</li>
+        <li> The command line, mostly Ubuntu, using Vim, MySQL and other command line tools</li>
       </ul>
     </section>
 
     <section class="work">
       <h2>Work</h2>
       <dl>
+        <dt>Github</dt>
+        <dd>
+          <p>You can view <a href="http://github.com/Tawreh">my personal repository of work</a> on Github.</p>
+        </dd>
+
         <dt>Microserve - May 2014 to present</dt>
-	<dd>
-	  <p><a href="http://microserveltd.co.uk/">Website</a></p>
-	  <p>Working as a mid-level Drupal developer. Not much more to say yet! I've only been here for a short amount of time! :)</p>
-	</dd>
+        <dd>
+          <p><a href="http://microserve.io/">Website</a></p>
+          <p><strong>Currently happily employed.</strong> Please don't contact me enquiring about job opportunities as I am not currently seeking work elsewhere.</p>
+          <p>Working as a mid-level Drupal developer. In the last year I've worked on several large Drupal projects, including:</p>
+          <ul>
+            <li> <a href="http://care-planner.co.uk">CarePlanner</a></li>
+            <li> <a href="http://kokmdemo.com/">Kokm</a></li>
+            <li> <a href="http://stitch.forinsiders.co.uk">Stitch</a></li>
+            <li> <a href="http://simitive.com">Simitive</a></li>
+          </ul>
+        </dd>
 
         <dt>Circle Interactive - July 2011 to May 2014</dt>
         <dd>
-          <p><a href="http://circle-interactive.co.uk/">Website</a> - <a href="http://github.com/Tawreh">link to personal repository of work</a></p>
+          <p><a href="http://circle-interactive.co.uk/">Website</a></p>
           <p>I started at Circle for my placement year between July 2011 and September 2012. During my final year of uni (Sept 2012 - May 2013), I worked at Circle while studying, during holidays and once every other week when my timetable allowed. I was hired straight out of university, starting full time as soon as my exams finished at the end of May 2013.</p>
           <p>My work included:</p>
           <ul>
@@ -92,14 +105,6 @@
           <p>As part of a final-year module I worked closely with Louise Williams at BWV to update some of the styling and layout on their website.</p>
           <p>As a team, we also created some user documentation to allow other members of her organisation to update content on the site. This involved teaching my team mates how WordPress works so they could produce some basic documentation as well.</p>
           <p>The document here is our final report, which should give an idea of what we did and how. It’s a bit wordy, but it was a business module, and we were expected to write between 30-40 pages!</p>
-        </dd>
-
-        <dt>Moto Guzzi Club - intermittently since July 2010</dt>
-        <dd>
-          <p><a href="http://motoguzziclub.co.uk/">Website</a> - <a href="http://motoguzziclub.co.uk/regalia/">link to work</a></p>
-          <p><strong>July - Sept 2010</strong>: Redesigned the regalia section and added Paypal links for all items, including the membership section. This included learning ASP, and streamlining some of the site - mainly the header, which I separated out into its own file to make it easier to update links in the future.</p>
-          <p><strong>Sept 2010 - present</strong>: Intermittent support, including: updating stylesheets, changing prices in Paypal, teaching the membership secretary how to update parts of the site herself.</p>
-          <p><strong>Nov 2013 - present</strong>: Some consultancy on finding a new webmaster and host.</p>
         </dd>
       </dl>
     </section>
