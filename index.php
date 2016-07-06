@@ -49,17 +49,16 @@
       <h2>General overview</h2>
       <p>I have experience with ...</p>
       <ul>
-        <li> HTML5 and CSS3, bringing PSD designs to life in the browser</li>
         <li> PHP and MySQL, mainly through the Drupal framework</li>
-        <li> Drupal 6/7 with CiviCRM 3.5+, including writing custom modules for each</li>
-        <li> Some limited experience of Drupal 8</li>
-        <li> Version control (mostly Git)</li>
-        <li> Web accessibility standards and making websites easy-to-use</li>
+        <li> Drupal 7 and 8, writing custom modules for each, maintaining other peoples' codebases</li>
         <li> JavaScript and jQuery, used mainly within the Drupal framework</li>
-        <li> Basic responsive web design</li>
-        <li> WordPress 3.0+, mainly with writing custom themes for personal use, and site building</li>
-        <li> Writing project documentation for a range of audiences (clients, other developers)</li>
         <li> The command line, mostly Ubuntu, using Vim, MySQL and other command line tools</li>
+        <li> Systems administration, including set up of sites on remote servers, configuring installations, and deployments to multiple environments</li>
+        <li> Version control (mostly Git, using GitHub and BitBucket as part of a team)</li>
+        <li> Working to coding standards and performing code reviews</li>
+        <li> HTML and CSS to most recent standards</li>
+        <li> Web accessibility standards and making websites easy-to-use</li>
+        <li> Writing project documentation for a range of audiences (clients, other developers)</li>
       </ul>
     </section>
 
@@ -74,12 +73,12 @@
         <dt>Microserve - May 2014 to present</dt>
         <dd>
           <p><a href="http://microserve.io/">Website</a></p>
-          <p><strong>Currently happily employed.</strong> Please don't contact me enquiring about job opportunities as I am not currently seeking work elsewhere.</p>
-          <p>Working as a mid-level Drupal developer. In the last year I've worked on several large Drupal projects, including:</p>
+          <p><strong>Currently happily employed.</strong> Please don't contact me enquiring about job opportunities as I am not seeking work elsewhere.</p>
+          <p>Working as a <s>mid-level</s> senior Drupal developer. In my time here, I've worked on several large Drupal projects, including:</p>
           <ul>
             <li> <a href="http://care-planner.co.uk">CarePlanner</a></li>
             <li> <a href="http://kokmdemo.com/">Kokm</a></li>
-            <li> <a href="http://stitch.forinsiders.co.uk">Stitch</a></li>
+            <li> <a href="http://stitch.forinsiders.co.uk">Arc</a> (powered by <a href="http://talkwithstitch.co.uk/">Stitch Communications</a>)</li>
             <li> <a href="http://simitive.com">Simitive</a></li>
           </ul>
         </dd>
@@ -97,14 +96,6 @@
             <li> Using existing modules to create complex functionality on sites, particularly using views, content access and internationalisation/translation</li>
             <li> Estimating work needed and time required for projects, and advising on what technologies could be used to solve problems</li>
           </ul>
-        </dd>
-
-        <dt>Bristol Women’s Voice - September 2012 to May 2013</dt>
-        <dd>
-          <p><a href="http://bristolwomensvoice.org.uk/">Website</a> - <a href="/cv/bwv/report.pdf">final report</a> - <a href="/cv/bwv/docs.pdf">associated documentation</a></p>
-          <p>As part of a final-year module I worked closely with Louise Williams at BWV to update some of the styling and layout on their website.</p>
-          <p>As a team, we also created some user documentation to allow other members of her organisation to update content on the site. This involved teaching my team mates how WordPress works so they could produce some basic documentation as well.</p>
-          <p>The document here is our final report, which should give an idea of what we did and how. It’s a bit wordy, but it was a business module, and we were expected to write between 30-40 pages!</p>
         </dd>
       </dl>
     </section>
@@ -146,22 +137,29 @@
     <section class="references">
       <h2>References</h2>
       <dl>
-        <dt>David Moreton</dt>
+        <dt>Mark Pavlitski</dt>
         <dd>
-          <p>My boss at Circle Interactive<br />
-            <a href="mailto:davem@circle-interactive.co.uk">davem@circle-interactive.co.uk</a> · <a href="http://circle-interactive.co.uk/">website</a> · <a href="tel:+441179096967">0117 909 6967</a></p>
+          <p>
+            Technical director at Microserve<br />
+            <a href="mailto:mark@microserve.io">mark@microserve.io</a> · <a href="tel:+441172140554">0117 214 0554</a>
+          </p>
+        </dd>
+
+        <dt>Dan McNamara</dt>
+        <dd>
+          <p>
+            Managing director at Microserve<br />
+            <a href="mailto:dan.mcnamara@microserve.io">dan.mcnamara@microserve.io</a> · <a href="http://microserve.io/">website</a> · <a href="tel:+441172140554">0117 214 0554</a>
+          </p>
         </dd>
 
         <dt>Andrew Walker</dt>
         <dd>
-          <p>Senior developer at Circle Interactive<br />
-            <a href="mailto:andyw@circle-interactive.co.uk">andyw@circle-interactive.co.uk</a></p>
+          <p>
+            Senior developer at Circle Interactive<br />
+            <a href="mailto:andyw@circle-interactive.co.uk">andyw@circle-interactive.co.uk</a>
+          </p>
         </dd>
-
-        <dt>Praminda Caleb-Solly</dt>
-        <dd>
-          <p>Senior lecturer at UWE<br />
-            <a href="mailto:pcalebso@uwe.ac.uk">pcalebso@uwe.ac.uk</a> · <a href="http://www.cems.uwe.ac.uk/~pcalebso/">website</a> · <a href="tel:+441173283178">0117 328 3178</a></p>
       </dl>
     </section>
 

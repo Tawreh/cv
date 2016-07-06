@@ -14,17 +14,16 @@ A graduate of Web Design from UWE in Bristol, I like wearing silly hats, drinkin
 <section class="overview">
 ## General overview
 I have experience with ...
-*   HTML5 and CSS3, bringing PSD designs to life in the browser
 *   PHP and MySQL, mainly through the Drupal framework
-*   Drupal 6/7 with CiviCRM 3.5+, including writing custom modules for each
-*   Some limited experience of Drupal 8
-*   Version control (mostly Git)
-*   Web accessibility standards and making websites easy-to-use
+*   Drupal 7 and 8, writing custom modules for each, maintaining other peoples' codebases
 *   JavaScript and jQuery, used mainly within the Drupal framework
-*   Basic responsive web design
-*   WordPress 3.0+, mainly with writing custom themes for personal use, and site building
-*   Writing project documentation for a range of audiences (clients, other developers)
 *   The command line, mostly Ubuntu, using Vim, MySQL and other command line tools
+*   Systems administration, including set up of sites on remote servers, configuring installations, and deployments to multiple environments
+*   Version control (mostly Git, using GitHub and BitBucket as part of a team)
+*   Working to coding standards and performing code reviews
+*   HTML and CSS to most recent standards
+*   Web accessibility standards and making websites easy-to-use
+*   Writing project documentation for a range of audiences (clients, other developers)
 </section>
 
 <section class="work">
@@ -33,34 +32,28 @@ I have experience with ...
 You can view [my personal repository of work](http://github.com/Tawreh) on Github.
 
 #### Microserve - May 2014 to present
-> [Website](http://microserve.io/)  
-> **Currently happily employed.** Please don't contact me enquiring about job opportunities as I am not currently seeking work elsewhere.
+> [Website](http://microserve.io/)
 
-> Working as a mid-level Drupal developer. In the last year I've worked on several large Drupal projects, including:
+> **Currently happily employed.** Please don't contact me enquiring about job opportunities as I am not seeking work elsewhere.
+
+> Working as a senior Drupal developer. In my time here, I've worked on several large Drupal projects, including:
 > *   [CarePlanner](http://care-planner.co.uk)
 > *   [Kokm](http://kokmdemo.com/)
-> *   [Stitch](http://stitch.forinsiders.co.uk)
+> *   [Arc](http://stitch.forinsiders.co.uk) (powered by [Stitch Communications](http://talkwithstitch.co.uk/)
 > *   [Simitive](http://simitive.com)
 
 #### Circle Interactive - July 2011 to May 2014
->[Website](http://circle-interactive.co.uk/)  
->I started at Circle for my placement year between July 2011 and September 2012\. During my final year of uni (Sept 2012 - May 2013), I worked at Circle while studying, during holidays and once every other week when my timetable allowed. I was hired straight out of university, starting full time as soon as my exams finished at the end of May 2013.
+> [Website](http://circle-interactive.co.uk/)
 
->My work included:
->*   Creating themes for Drupal 6 and 7 sites, both from provided PSDs and based on client suggestions of “liked sites”
->*   Working directly with clients through our support system and also through direct contact on email and telephone (rarely!)
->*   Creating custom modules - see personal repository for the best examples, but these modules include: a rewritten support system for our intranet; dynamic data retrieval from a client’s server to show course schedules; working with geolocation on an Apache server; updating a cookie control module to work with Drupal 5, 6 and 7 for distribution to our clients; and updating a half-written module to perform a proximity search on CiviCRM data
->*   Writing documentation for clients and colleagues on how to use existing Drupal modules/CiviCRM extensions, custom modules created for a purpose, and documentation for theming
->*   Using existing modules to create complex functionality on sites, particularly using views, content access and internationalisation/translation
->*   Estimating work needed and time required for projects, and advising on what technologies could be used to solve problems
+> I started at Circle for my placement year between July 2011 and September 2012\. During my final year of uni (Sept 2012 - May 2013), I worked at Circle while studying, during holidays and once every other week when my timetable allowed. I was hired straight out of university, starting full time as soon as my exams finished at the end of May 2013.
 
-#### Bristol Women’s Voice - September 2012 to May 2013
-> [Website](http://bristolwomensvoice.org.uk/) - [final report](/cv/bwv/report.pdf) - [associated documentation](/cv/bwv/docs.pdf)  
-> As part of a final-year module I worked closely with Louise Williams at BWV to update some of the styling and layout on their website.
-
-> As a team, we also created some user documentation to allow other members of her organisation to update content on the site. This involved teaching my team mates how WordPress works so they could produce some basic documentation as well.
-
-> The document here is our final report, which should give an idea of what we did and how. It’s a bit wordy, but it was a business module, and we were expected to write between 30-40 pages!
+> My work included:
+> *   Creating themes for Drupal 6 and 7 sites, both from provided PSDs and based on client suggestions of “liked sites”
+> *   Working directly with clients through our support system and also through direct contact on email and telephone (rarely!)
+> *   Creating custom modules - see personal repository for the best examples, but these modules include: a rewritten support system for our intranet; dynamic data retrieval from a client’s server to show course schedules; working with geolocation on an Apache server; updating a cookie control module to work with Drupal 5, 6 and 7 for distribution to our clients; and updating a half-written module to perform a proximity search on CiviCRM data
+> *   Writing documentation for clients and colleagues on how to use existing Drupal modules/CiviCRM extensions, custom modules created for a purpose, and documentation for theming
+> *   Using existing modules to create complex functionality on sites, particularly using views, content access and internationalisation/translation
+> *   Estimating work needed and time required for projects, and advising on what technologies could be used to solve problems
 </section>
 
 <section class="study">
@@ -99,19 +92,17 @@ Oh ... and I really like writing documentation! I know that sounds weird, but I 
 
 <section class="references">
 ## References
-#### David Moreton
-> My boss at Circle Interactive  
-> [davem@circle-interactive.co.uk](mailto:davem@circle-interactive.co.uk) · [website](http://circle-interactive.co.uk/) · [0117 909 6967](tel:+441179096967)
+#### Mark Pavlitski
+> Technical director at Microserve
+> [mark@microserve.io](mailto:mark@microserve.io) · [0117 214 0554](tel:+441172140554)
 
+#### Dan Mcnamara
+> Managing Director at Microserve
+> [dan.mcnamara@microserve.io](mailto:dan.mcnamara@microserve.io) · [0117 214 0554](tel:+441172140554)
 
 #### Andrew Walker
-> Senior developer at Circle Interactive  
+> Senior developer at Circle Interactive
 > [andyw@circle-interactive.co.uk](mailto:andyw@circle-interactive.co.uk)
-
-
-#### Praminda Caleb-Solly
-> Senior lecturer at UWE  
-> [pcalebso@uwe.ac.uk](mailto:pcalebso@uwe.ac.uk) · [website](http://www.cems.uwe.ac.uk/~pcalebso/) · [0117 328 3178](tel:+441173283178)
 </section>
 
 </article>
