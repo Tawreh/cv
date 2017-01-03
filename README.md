@@ -86,9 +86,9 @@ I’ve been working with the web since I was 14, and since then I’ve become a 
 
 During my placement and subsequent employment I feel I’ve become a stronger team player, and I work well with like-minded and enthusiastic people. However, I thrive best when given a task to do and a deadline, and am capable of putting my head down and concentrating on a single project.
 
-I enjoy learning and sharing new knowledge with others. I keep up with news on Twitter, listen to web-related podcasts, and, when possible, I attend conferences. As a placement student I learned from my colleagues, and try to pass on that help to students in turn, whenever possible. Occasionally I [blog about the work I do](http://herbal-jazz.net/category/work/drupal/), and these posts have proven to be some of the most popular I’ve written.
+I enjoy learning and sharing new knowledge with others. I keep up with news on Twitter, listen to web-related podcasts, and, when possible, I attend conferences. As a placement student I learned from my colleagues, and try to pass on that help to students in turn, whenever possible.
 
-Oh ... and I really like writing documentation! I know that sounds weird, but I think it’s important to make it as easy as possible for others to pick up systems. I get frustrated when documentation isn’t provided, so I do my best to provide it for others. I have some of my documentation samples [saved on Google Drive](https://drive.google.com/folderview?id=0B8GSoyQxjjZ1TTRpMF91UlNtUDg&usp=sharing).
+Oh ... and I really like writing documentation! I know that sounds weird, but I think it’s important to make it as easy as possible for others to pick up systems. I get frustrated when documentation isn’t provided, so I do my best to provide it for others.
 </section>
 
 <section class="references">
