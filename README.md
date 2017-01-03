@@ -6,7 +6,7 @@
 
 <section class="about-me">
 ## About me
-I’m Sophie, a 25-year-old, 6’2″ web developer based in Bristol. I moved here from Lincolnshire when I started university and fell head-over-heels for the place. :)
+I’m Sophie, a 26-year-old, 6’2″ web developer based in Bristol. I moved here from Lincolnshire when I started university and fell head-over-heels for the place. :)
 
 A graduate of Web Design from UWE in Bristol, I like wearing silly hats, drinking coffee, listening to music, baking, drawing, typography and fantasy writing. And cats. I really like cats.
 </section>
@@ -37,10 +37,11 @@ You can view [my personal repository of work](http://github.com/Tawreh) on Githu
 > **Currently happily employed.** Please don't contact me enquiring about job opportunities as I am not seeking work elsewhere.
 
 > Working as a senior Drupal developer. In my time here, I've worked on several large Drupal projects, including:
-> *   [CarePlanner](http://care-planner.co.uk)
-> *   [Kokm](http://kokmdemo.com/)
+> *   [YHA Groups](https://groups.yha.org.uk/)
 > *   [Arc](http://stitch.forinsiders.co.uk) (powered by [Stitch Communications](http://talkwithstitch.co.uk/)
+> *   [CarePlanner](http://care-planner.co.uk)
 > *   [Simitive](http://simitive.com)
+> *   [Kokm](http://kokmdemo.com/)
 
 #### Circle Interactive - July 2011 to May 2014
 > [Website](http://circle-interactive.co.uk/)
@@ -93,15 +94,18 @@ Oh ... and I really like writing documentation! I know that sounds weird, but I 
 <section class="references">
 ## References
 #### Mark Pavlitski
-> Technical director at Microserve
-> [mark@microserve.io](mailto:mark@microserve.io) · [0117 214 0554](tel:+441172140554)
+> Solutions architect at Deeson Labs
+
+> [mark.pavlitski@deeson.co.uk](mailto:mark.pavlitski@deeson.co.uk)
 
 #### Dan Mcnamara
-> Managing Director at Microserve
+> Managing director at Microserve
+
 > [dan.mcnamara@microserve.io](mailto:dan.mcnamara@microserve.io) · [0117 214 0554](tel:+441172140554)
 
 #### Andrew Walker
 > Senior developer at Circle Interactive
+
 > [andyw@circle-interactive.co.uk](mailto:andyw@circle-interactive.co.uk)
 </section>
 

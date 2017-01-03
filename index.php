@@ -41,7 +41,7 @@
 
     <section class="about-me">
       <h2>About me</h2>
-      <p>I’m Sophie, a 25-year-old, 6’2″ web developer based in Bristol. I moved here from Lincolnshire when I started university and fell head-over-heels for the place. :)</p>
+      <p>I’m Sophie, a 26-year-old, 6’2″ web developer based in Bristol. I moved here from Lincolnshire when I started university and fell head-over-heels for the place. :)</p>
       <p>A graduate of Web Design from UWE in Bristol, I like wearing silly hats, drinking coffee, listening to music, baking, drawing, typography and fantasy writing. And cats. I really like cats.</p>
     </section>
 
@@ -76,10 +76,11 @@
           <p><strong>Currently happily employed.</strong> Please don't contact me enquiring about job opportunities as I am not seeking work elsewhere.</p>
           <p>Working as a <s>mid-level</s> senior Drupal developer. In my time here, I've worked on several large Drupal projects, including:</p>
           <ul>
-            <li> <a href="http://care-planner.co.uk">CarePlanner</a></li>
-            <li> <a href="http://kokmdemo.com/">Kokm</a></li>
+            <li> <a href="https://groups.yha.org.uk/">YHA Groups</a></li>
             <li> <a href="http://stitch.forinsiders.co.uk">Arc</a> (powered by <a href="http://talkwithstitch.co.uk/">Stitch Communications</a>)</li>
+            <li> <a href="http://care-planner.co.uk">CarePlanner</a></li>
             <li> <a href="http://simitive.com">Simitive</a></li>
+            <li> <a href="http://kokmdemo.com/">Kokm</a></li>
           </ul>
         </dd>
 
@@ -140,8 +141,8 @@
         <dt>Mark Pavlitski</dt>
         <dd>
           <p>
-            Technical director at Microserve<br />
-            <a href="mailto:mark@microserve.io">mark@microserve.io</a> · <a href="tel:+441172140554">0117 214 0554</a>
+            Solutions architect at Deeson Labs<br />
+            <a href="mailto:mark.pavlitski@deeson.co.uk">mark.pavlitski@deeson.co.uk</a>
           </p>
         </dd>
 
