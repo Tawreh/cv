@@ -96,7 +96,7 @@ Oh ... and I really like writing documentation! I know that sounds weird, but I 
 #### Mark Pavlitski
 > Solutions architect at Deeson Labs
 
-> [mark.pavlitski@deeson.co.uk](mailto:mark.pavlitski@deeson.co.uk)
+> [markp@deeson.co.uk](mailto:markp@deeson.co.uk)
 
 #### Dan Mcnamara
 > Managing director at Microserve

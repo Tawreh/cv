@@ -142,7 +142,7 @@
         <dd>
           <p>
             Solutions architect at Deeson Labs<br />
-            <a href="mailto:mark.pavlitski@deeson.co.uk">mark.pavlitski@deeson.co.uk</a>
+            <a href="mailto:markp@deeson.co.uk">markp@deeson.co.uk</a>
           </p>
         </dd>
 
