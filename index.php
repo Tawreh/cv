@@ -10,18 +10,13 @@
 
   <title>Sophie Shanahan-Kluth</title>
 
-  <meta name="description" content="CV of Bristol-based Web Designer Sophie Shanahan-Kluth">
+  <meta name="description" content="CV of Bristol-based web developer and cat enthusiast Sophie Shanahan-Kluth">
   <meta name="viewport" content="width=device-width">
 
   <link rel="shortcut icon" href="/favicon.ico" />
   <link rel="stylesheet" type="text/css" href="style.css" />
-
-  <script src="http://use.typekit.com/bdi2vhc.js"></script>
-  <script>try{Typekit.load();}catch(e){}</script>
 </head>
 <body>
-  <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
-
   <div class="circle" id="big-blue"></div>
   <div class="circle" id="turq"></div>
   <div class="circle" id="dturq"></div>
@@ -41,24 +36,23 @@
 
     <section class="about-me">
       <h2>About me</h2>
-      <p>I’m Sophie, a 26-year-old, 6’2″ web developer based in Bristol. I moved here from Lincolnshire when I started university and fell head-over-heels for the place. :)</p>
-      <p>A graduate of Web Design from UWE in Bristol, I like wearing silly hats, drinking coffee, listening to music, baking, drawing, typography and fantasy writing. And cats. I really like cats.</p>
+      <p>I'm Sophie, a 27-year-old, 6'2″ web developer based in Bristol. I moved here from Lincolnshire when I started university and fell head-over-heels for the place. :)</p>
+      <p>A graduate of Web Design from UWE in Bristol, I like wearing drinking coffee, listening to music, baking, drawing, knitting, crochet, roleplay gaming, cross stitching and fantasy writing. And cats. I really like cats.</p>
     </section>
 
     <section class="overview">
       <h2>General overview</h2>
       <p>I have experience with ...</p>
       <ul>
-        <li> PHP and MySQL, mainly through the Drupal framework</li>
+        <li> PHP and MySQL, mainly through Drupal but with knowledge of Symfony and related technologies</li>
         <li> Drupal 7 and 8, writing custom modules for each, maintaining other peoples' codebases</li>
         <li> JavaScript and jQuery, used mainly within the Drupal framework</li>
-        <li> The command line, mostly Ubuntu, using Vim, MySQL and other command line tools</li>
+        <li> The command line, mostly Linux-based, using Vim, MySQL and other command line tools</li>
         <li> Systems administration, including set up of sites on remote servers, configuring installations, and deployments to multiple environments</li>
-        <li> Version control (mostly Git, using GitHub and BitBucket as part of a team)</li>
-        <li> Working to coding standards and performing code reviews</li>
-        <li> HTML and CSS to most recent standards</li>
+        <li> Git-based workflows and technologies, using Gitlab, Github and Bitbucket, with a strong emphasis on collaborateive work</li>
+        <li> Working to coding standards and receiving/performing code reviews</li>
         <li> Web accessibility standards and making websites easy-to-use</li>
-        <li> Writing project documentation for a range of audiences (clients, other developers)</li>
+        <li> Writing project documentation for a range of audiences, including clients and other developers</li>
       </ul>
     </section>
 
@@ -74,7 +68,7 @@
         <dd>
           <p><a href="http://microserve.io/">Website</a></p>
           <p><strong>Currently happily employed.</strong> Please don't contact me enquiring about job opportunities as I am not seeking work elsewhere.</p>
-          <p>Working as a <s>mid-level</s> senior Drupal developer. In my time here, I've worked on several large Drupal projects, including:</p>
+          <p>Working as a senior Drupal developer. In my time here, I've worked on several large Drupal projects, including:</p>
           <ul>
             <li> <a href="https://groups.yha.org.uk/">YHA Groups</a></li>
             <li> <a href="http://stitch.forinsiders.co.uk">Arc</a> (powered by <a href="http://talkwithstitch.co.uk/">Stitch Communications</a>)</li>
@@ -92,7 +86,7 @@
           <ul>
             <li> Creating themes for Drupal 6 and 7 sites, both from provided PSDs and based on client suggestions of “liked sites”</li>
             <li> Working directly with clients through our support system and also through direct contact on email and telephone (rarely!)</li>
-            <li> Creating custom modules - see personal repository for the best examples, but these modules include: a rewritten support system for our intranet; dynamic data retrieval from a client’s server to show course schedules; working with geolocation on an Apache server; updating a cookie control module to work with Drupal 5, 6 and 7 for distribution to our clients; and updating a half-written module to perform a proximity search on CiviCRM data</li>
+            <li> Creating custom modules - see personal repository for the best examples, but these modules include: a rewritten support system for our intranet; dynamic data retrieval from a client's server to show course schedules; working with geolocation on an Apache server; updating a cookie control module to work with Drupal 5, 6 and 7 for distribution to our clients; and updating a half-written module to perform a proximity search on CiviCRM data</li>
             <li> Writing documentation for clients and colleagues on how to use existing Drupal modules/CiviCRM extensions, custom modules created for a purpose, and documentation for theming</li>
             <li> Using existing modules to create complex functionality on sites, particularly using views, content access and internationalisation/translation</li>
             <li> Estimating work needed and time required for projects, and advising on what technologies could be used to solve problems</li>
@@ -111,7 +105,7 @@
           <p>It was built using CodeIgniter, which I hadn't used before, and was coded between October 2012 and April 2013. The <a href="/cv/dmp/report.pdf">accompanying report</a> (a large PDF ... you've been warned) was written throughout the year alongside the project work.</p>
           <p>Other modules included:</p>
           <ul>
-            <li> Final year: a digital media project (<a href="http://fontastica.herbal-jazz.net">Fontastica, a font finder</a>), interaction design (<a href="http://id.herbal-jazz.net/">logbook of work</a>), consultancy project (working with Bristol Women’s Voice), advanced topics in web development (creating a RESTful API system)</li>
+            <li> Final year: a digital media project (<a href="http://fontastica.herbal-jazz.net">Fontastica, a font finder</a>), interaction design, consultancy project (working with Bristol Women's Voice), advanced topics in web development (creating a RESTful API system)</li>
             <li> Third year: placement at <a href="http://circle-interactive.co.uk/">Circle Interactive</a></li>
             <li> Second year: human-computer interaction, information architecture, web design principles</li>
             <li> First year: information design, media technologies (basic knowledge of Flash and ActionScript 3.0 programming)</li>
@@ -129,10 +123,11 @@
 
     <section class="what">
       <h2>What I can bring to the table</h2>
-      <p>I’ve been working with the web since I was 14, and since then I’ve become a huge believer in making things simple and easy to use, both for the end user and for any developer who will take up work after me. I’m keen to broaden my horizons and learn new things, rather than stagnating in a single place.</p>
-      <p>During my placement and subsequent employment I feel I’ve become a stronger team player, and I work well with like-minded and enthusiastic people. However, I thrive best when given a task to do and a deadline, and am capable of putting my head down and concentrating on a single project.</p>
-      <p>I enjoy learning and sharing new knowledge with others. I keep up with news on Twitter, listen to web-related podcasts, and, when possible, I attend conferences. As a placement student I learned from my colleagues, and try to pass on that help to students in turn, whenever possible.</p>
-      <p>Oh ... and I really like writing documentation! I know that sounds weird, but I think it’s important to make it as easy as possible for others to pick up systems. I get frustrated when documentation isn’t provided, so I do my best to provide it for others.</p>
+      <p>I've been working with the web since I was 14, and since then I've become a huge believer in making things simple and easy to use, both for the end user and for any developer who will take up work after me. I'm keen to broaden my horizons and learn new things, rather than stagnating in a single place.</p>
+      <p>I work best with people who are driven and details-oriented, and thrive when given a task to do and a deadline. I enjoy taking the time to get stuck into a project, understanding the client's objectives and seeing the project through to the end. I don't like leaving tasks half-finished.</p>
+      <p>I enjoy learning and sharing new knowledge with others. During my time at Microserve I've taken on the role of a mentor, helping to teach students and junior devs how to assess priorities, discover solutions, and ultimately complete their own work in a thorough, timely manner. My emphasis is on teaching people to be strong independent learners, with keen attention to detail and a desire to achieve the best.</p>
+      <p>Oh ... and I really like writing documentation! I know that sounds weird, but I think it's important to make it as easy as possible for others to pick up systems. I get frustrated when documentation isn't provided, so I do my best to provide it for others.</p>
+      <p>Recently I've started to focus on health - not only my health but that of my colleagues and friends. Maintaining a healthy mind and body is a really important thing for anyone to do, so I push for all of my colleagues to keep an eye on their work-life balance and offer support wherever I can.</p>
     </section>
 
     <section class="references">
