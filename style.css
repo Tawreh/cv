@@ -29,8 +29,10 @@
 
     html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
 
+    @import 'https://fonts.googleapis.com/css?family=Open+Sans|Roboto+Slab';
+
     html, button, input, select, textarea {
-      font-family: 'chaparral-pro', Georgia, 'Times New Roman', serif;
+      font-family: 'Open Sans', Arial, sans-serif;
       color: #333;
     }
 
@@ -114,6 +116,7 @@
 
     h1 {
       color: #155C6D;
+      font-family: 'Roboto Slab', Georgia, serif;
       font-size: 3rem;
       font-weight: 600;
       margin: 0;
@@ -122,13 +125,15 @@
 
     h2 {
       color: #155C6D;
-      font-weight: 600;
+      font-family: 'Roboto Slab', Georgia, serif;
       font-style: normal;
+      font-weight: 600;
     }
 
 
     h3 {
       color: #24AF8D;
+      font-family: 'Roboto Slab', Georgia, serif;
       font-size: 1.2rem;
       font-weight: 600;
       padding: 0 0 0 15px;
