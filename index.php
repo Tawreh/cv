@@ -13,7 +13,7 @@
   <meta name="description" content="CV of Bristol-based web developer and cat enthusiast Sophie Shanahan-Kluth">
   <meta name="viewport" content="width=device-width">
 
-  <link rel="shortcut icon" href="/favicon.ico" />
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto+Slab" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 <body>
