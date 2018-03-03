@@ -28,7 +28,7 @@
       <div class="circle" id="dblue"></div>
       <h1>Sophie Shanahan-Kluth</h1>
       <h2>
-        <span class="web"><a href="http://herbal-jazz.net">herbal-jazz.net</a></span>
+        <span class="web"><a href="https://iamsophie.sk">iamsophie.sk</a></span>
         <span class="email"><a href="mailto:sophie@microserve.io">sophie@microserve.io</a></span>
         <span class="phone"><a href="tel:+447460776176">07460 776 176</a></span>
       </h2>
@@ -37,22 +37,27 @@
     <section class="about-me">
       <h2>About me</h2>
       <p>I'm Sophie, a 27-year-old, 6'2″ web developer based in Bristol. I moved here from Lincolnshire when I started university and fell head-over-heels for the place. :)</p>
-      <p>A graduate of Web Design from UWE in Bristol, I like wearing drinking coffee, listening to music, baking, drawing, knitting, crochet, roleplay gaming, cross stitching and fantasy writing. And cats. I really like cats.</p>
+      <p>A graduate of Web Design from UWE in Bristol, I like drinking coffee, listening to music, baking, drawing, knitting, crochet, roleplay gaming, cross stitching and fantasy writing. And cats. I really like cats.</p>
     </section>
 
     <section class="overview">
       <h2>General overview</h2>
       <p>I have experience with ...</p>
       <ul>
+        <li> Mentorship of junior developers in a team environment</li>
+        <li> Leading development projects and spearheading technical and architectural decisions across teams and companies</li>
+        <li> Technical advice, offering advice to other teams and other agencies</li>
+        <li> Assisting project and technical managers to make project- and company-level decisions</li>
+        <li> Contribution to open-source software initiatives (Drupal core and contrib modules)</li>
         <li> PHP and MySQL, mainly through Drupal but with knowledge of Symfony and related technologies</li>
         <li> Drupal 7 and 8, writing custom modules for each, maintaining other peoples' codebases</li>
         <li> JavaScript and jQuery, used mainly within the Drupal framework</li>
         <li> The command line, mostly Linux-based, using Vim, MySQL and other command line tools</li>
         <li> Systems administration, including set up of sites on remote servers, configuring installations, and deployments to multiple environments</li>
         <li> Git-based workflows and technologies, using Gitlab, Github and Bitbucket, with a strong emphasis on collaborateive work</li>
+        <li> Writing project documentation for a range of audiences, including clients and other developers</li>
         <li> Working to coding standards and receiving/performing code reviews</li>
         <li> Web accessibility standards and making websites easy-to-use</li>
-        <li> Writing project documentation for a range of audiences, including clients and other developers</li>
       </ul>
     </section>
 
@@ -101,11 +106,11 @@
         <dt>BSc(hons) in Web Design</dt>
         <dd>
           <p>Studied at <abbr title="University of the West of England">UWE</abbr> Bristol from September 2009 to July 2013, graduating with a first class degree.</p>
-          <p>My final year project was <a href="http://fontastica.herbal-jazz.net">Fontastica</a>, a font finder. Using Google's API, the site provided random combinations of fonts in header-body format and allowed users to rate them ("I like this!" or "This sucks!"). Its purpose was to give designers ideas for type combinations on websites, assuming that it's either difficult to come up with a good combination, or they stick to the same old thing.</p>
-          <p>It was built using CodeIgniter, which I hadn't used before, and was coded between October 2012 and April 2013. The <a href="/cv/dmp/report.pdf">accompanying report</a> (a large PDF ... you've been warned) was written throughout the year alongside the project work.</p>
+          <p>My final year project was Fontastica, a font finder. Using Google's API, the site provided random combinations of fonts in header-body format and allowed users to rate them ("I like this!" or "This sucks!"). Its purpose was to give designers ideas for type combinations on websites, assuming that it's either difficult to come up with a good combination, or they stick to the same old thing.</p>
+          <p>It was built using CodeIgniter, which I hadn't used before, and was coded between October 2012 and April 2013. The accompanying report (a large PDF ... you've been warned) was written throughout the year alongside the project work.</p>
           <p>Other modules included:</p>
           <ul>
-            <li> Final year: a digital media project (<a href="http://fontastica.herbal-jazz.net">Fontastica, a font finder</a>), interaction design, consultancy project (working with Bristol Women's Voice), advanced topics in web development (creating a RESTful API system)</li>
+            <li> Final year: a digital media project (Fontastica, a font finder), interaction design, consultancy project (working with Bristol Women's Voice), advanced topics in web development (creating a RESTful API system)</li>
             <li> Third year: placement at <a href="http://circle-interactive.co.uk/">Circle Interactive</a></li>
             <li> Second year: human-computer interaction, information architecture, web design principles</li>
             <li> First year: information design, media technologies (basic knowledge of Flash and ActionScript 3.0 programming)</li>

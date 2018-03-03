@@ -1,6 +1,6 @@
 # Sophie Shanahan-Kluth
 
-## <span class="web">[herbal-jazz.net](http://herbal-jazz.net)</span> <span class="email">[sophie@microserve.io](mailto:sophie@microserve.io)</span> <span class="phone">[07460 776 176](tel:+447460776176)</span>
+## <span class="web">[iamsophie.sk](https://iamsophie.sk)</span> <span class="email">[sophie@microserve.io](mailto:sophie@microserve.io)</span> <span class="phone">[07460 776 176](tel:+447460776176)</span>
 
 ## About me
 
@@ -12,15 +12,20 @@ A graduate of Web Design from UWE in Bristol, I like wearing drinking coffee, li
 
 I have experience with ...
 
+* Mentorship of junior developers in a team environment
+* Leading development projects and spearheading technical and architectural decisions across teams and companies
+* Technical advice, offering advice to other teams and other agencies
+* Assisting project and technical managers to make project- and company-level decisions
+* Contribution to open-source software initiatives (Drupal core and contrib modules)
 * PHP and MySQL, mainly through Drupal but with knowledge of Symfony and related technologies
 * Drupal 7 and 8, writing custom modules for each, maintaining other peoples' codebases
 * JavaScript and jQuery, used mainly within the Drupal framework
 * The command line, mostly Linux-based, using Vim, MySQL and other command line tools
 * Systems administration, including set up of sites on remote servers, configuring installations, and deployments to multiple environments
 * Git-based workflows and technologies, using Gitlab, Github and Bitbucket, with a strong emphasis on collaborateive work
+* Writing project documentation for a range of audiences, including clients and other developers
 * Working to coding standards and receiving/performing code reviews
 * Web accessibility standards and making websites easy-to-use
-* Writing project documentation for a range of audiences, including clients and other developers
 
 ## Work
 
@@ -59,20 +64,20 @@ I have experience with ...
 
 > Studied at <abbr title="University of the West of England">UWE</abbr> Bristol from September 2009 to July 2013, graduating with a first class degree.
 
-> My final year project was [Fontastica](http://fontastica.herbal-jazz.net), a font finder. Using Google's API, the site provided random combinations of fonts in header-body format and allowed users to rate them ("I like this!" or "This sucks!"). Its purpose was to give designers ideas for type combinations on websites, assuming that it's either difficult to come up with a good combination, or they stick to the same old thing.
+> My final year project was Fontastica, a font finder. Using Google's API, the site provided random combinations of fonts in header-body format and allowed users to rate them ("I like this!" or "This sucks!"). Its purpose was to give designers ideas for type combinations on websites, assuming that it's either difficult to come up with a good combination, or they stick to the same old thing.
 
-> It was built using CodeIgniter, which I hadn't used before, and was coded between October 2012 and April 2013\. The [accompanying report](/cv/dmp/report.pdf) (a large PDF ... you've been warned) was written throughout the year alongside the project work.
+> It was built using CodeIgniter, which I hadn't used before, and was coded between October 2012 and April 2013\. The accompanying report (a large PDF ... you've been warned) was written throughout the year alongside the project work.
 
 > Other modules included:
 
-> *   Final year: a digital media project ([Fontastica, a font finder](http://fontastica.herbal-jazz.net)), interaction design ([logbook of work](http://id.herbal-jazz.net/)), consultancy project (working with Bristol Women’s Voice), advanced topics in web development (creating a RESTful API system)
+> *   Final year: a digital media project (Fontastica), interaction design, consultancy project (working with Bristol Women’s Voice), advanced topics in web development (creating a RESTful API system)
 > *   Third year: placement at [Circle Interactive](http://circle-interactive.co.uk/)
 > *   Second year: human-computer interaction, information architecture, web design principles
 > *   First year: information design, media technologies (basic knowledge of Flash and ActionScript 3.0 programming)
 
 #### A-levels
 
-> Attended <abbr title="Sleaford Joint Sixth Form">SJSF</abbr> in Lincolnshire from September 2007 to July 2009\. Left with three A-levels and one BTEC Certificate in Art & Design (grade MM).
+> Attended <abbr title="Sleaford Joint Sixth Form">SJSF</abbr> in Lincolnshire from September 2007 to July 2009. Left with three A-levels and one BTEC Certificate in Art & Design (grade MM).
 
 > BTEC units included: photography, fashion illustration, textile work, art history, logo/brand design, web design (in final major project, self-created brief), typography.
 
