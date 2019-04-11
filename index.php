@@ -29,14 +29,13 @@
       <h1>Sophie Shanahan-Kluth</h1>
       <h2>
         <span class="web"><a href="https://iamsophie.sk">iamsophie.sk</a></span>
-        <span class="email"><a href="mailto:sophie@microserve.io">sophie@microserve.io</a></span>
-        <span class="phone"><a href="tel:+447460776176">07460 776 176</a></span>
+        <span class="email"><a href="mailto:sophie@iamsophie.sk">sophie@iamsophie.sk</a></span>
       </h2>
     </header>
 
     <section class="about-me">
       <h2>About me</h2>
-      <p>I'm Sophie, a 27-year-old, 6'2″ web developer based in Bristol. I moved here from Lincolnshire when I started university and fell head-over-heels for the place. :)</p>
+      <p>I'm Sophie, a 28-year-old, 6'2″ web developer based in Bristol. I moved here from Lincolnshire when I started university and fell head-over-heels for the place. :)</p>
       <p>A graduate of Web Design from UWE in Bristol, I like drinking coffee, listening to music, baking, drawing, knitting, crochet, roleplay gaming, cross stitching and fantasy writing. And cats. I really like cats.</p>
     </section>
 
@@ -54,7 +53,7 @@
         <li> JavaScript and jQuery, used mainly within the Drupal framework</li>
         <li> The command line, mostly Linux-based, using Vim, MySQL and other command line tools</li>
         <li> Systems administration, including set up of sites on remote servers, configuring installations, and deployments to multiple environments</li>
-        <li> Git-based workflows and technologies, using Gitlab, Github and Bitbucket, with a strong emphasis on collaborateive work</li>
+        <li> Git-based workflows and technologies, using Gitlab, Github and Bitbucket, with a strong emphasis on collaborative work</li>
         <li> Writing project documentation for a range of audiences, including clients and other developers</li>
         <li> Working to coding standards and receiving/performing code reviews</li>
         <li> Web accessibility standards and making websites easy-to-use</li>
@@ -72,9 +71,10 @@
         <dt>Microserve - May 2014 to present</dt>
         <dd>
           <p><a href="http://microserve.io/">Website</a></p>
-          <p><strong>Currently happily employed.</strong> Please don't contact me enquiring about job opportunities as I am not seeking work elsewhere.</p>
           <p>Working as a senior Drupal developer. In my time here, I've worked on several large Drupal projects, including:</p>
           <ul>
+            <li> <a href="https://support.wwf.org.uk">WWF-UK Support</a></li>
+            <li> <a href="https://www.yha.org.uk/">YHA Families & Individuals</a></li>
             <li> <a href="https://groups.yha.org.uk/">YHA Groups</a></li>
             <li> <a href="http://stitch.forinsiders.co.uk">Arc</a> (powered by <a href="http://talkwithstitch.co.uk/">Stitch Communications</a>)</li>
             <li> <a href="http://care-planner.co.uk">CarePlanner</a></li>
@@ -91,7 +91,7 @@
           <ul>
             <li> Creating themes for Drupal 6 and 7 sites, both from provided PSDs and based on client suggestions of “liked sites”</li>
             <li> Working directly with clients through our support system and also through direct contact on email and telephone (rarely!)</li>
-            <li> Creating custom modules - see personal repository for the best examples, but these modules include: a rewritten support system for our intranet; dynamic data retrieval from a client's server to show course schedules; working with geolocation on an Apache server; updating a cookie control module to work with Drupal 5, 6 and 7 for distribution to our clients; and updating a half-written module to perform a proximity search on CiviCRM data</li>
+            <li> Creating custom modules, including: a rewritten support system for our intranet; dynamic data retrieval from a client's server to show course schedules; working with geolocation on an Apache server; updating a cookie control module to work with Drupal 5, 6 and 7 for distribution to our clients; and updating a half-written module to perform a proximity search on CiviCRM data</li>
             <li> Writing documentation for clients and colleagues on how to use existing Drupal modules/CiviCRM extensions, custom modules created for a purpose, and documentation for theming</li>
             <li> Using existing modules to create complex functionality on sites, particularly using views, content access and internationalisation/translation</li>
             <li> Estimating work needed and time required for projects, and advising on what technologies could be used to solve problems</li>
@@ -107,7 +107,7 @@
         <dd>
           <p>Studied at <abbr title="University of the West of England">UWE</abbr> Bristol from September 2009 to July 2013, graduating with a first class degree.</p>
           <p>My final year project was Fontastica, a font finder. Using Google's API, the site provided random combinations of fonts in header-body format and allowed users to rate them ("I like this!" or "This sucks!"). Its purpose was to give designers ideas for type combinations on websites, assuming that it's either difficult to come up with a good combination, or they stick to the same old thing.</p>
-          <p>It was built using CodeIgniter, which I hadn't used before, and was coded between October 2012 and April 2013. The accompanying report (a large PDF ... you've been warned) was written throughout the year alongside the project work.</p>
+          <p>It was built using CodeIgniter, which I hadn't used before, and was coded between October 2012 and April 2013. The accompanying report was written throughout the year alongside the project work.</p>
           <p>Other modules included:</p>
           <ul>
             <li> Final year: a digital media project (Fontastica, a font finder), interaction design, consultancy project (working with Bristol Women's Voice), advanced topics in web development (creating a RESTful API system)</li>
@@ -138,11 +138,11 @@
     <section class="references">
       <h2>References</h2>
       <dl>
-        <dt>Mark Pavlitski</dt>
+        <dt>Em Coward</dt>
         <dd>
           <p>
-            Solutions architect at Deeson Labs<br />
-            <a href="mailto:markp@deeson.co.uk">markp@deeson.co.uk</a>
+            Head of development at Microserve<br />
+            <a href="mailto:emily@microserve.io">emily@microserve.io</a>
           </p>
         </dd>
 
@@ -151,14 +151,6 @@
           <p>
             Managing director at Microserve<br />
             <a href="mailto:dan.mcnamara@microserve.io">dan.mcnamara@microserve.io</a> · <a href="http://microserve.io/">website</a> · <a href="tel:+441172140554">0117 214 0554</a>
-          </p>
-        </dd>
-
-        <dt>Andrew Walker</dt>
-        <dd>
-          <p>
-            Senior developer at Circle Interactive<br />
-            <a href="mailto:andyw@circle-interactive.co.uk">andyw@circle-interactive.co.uk</a>
           </p>
         </dd>
       </dl>
